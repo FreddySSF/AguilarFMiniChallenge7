@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ferna\\OneDrive\\Documents\\GitRepository\\AguilarFMiniChallenge7\\AguilarFMiniChallenge7.csproj": {}
+    "/Users/angelmanz/Documents/Level1/GitRepository/AguilarFMiniChallenge7/AguilarFMiniChallenge7.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ferna\\OneDrive\\Documents\\GitRepository\\AguilarFMiniChallenge7\\AguilarFMiniChallenge7.csproj": {
+    "/Users/angelmanz/Documents/Level1/GitRepository/AguilarFMiniChallenge7/AguilarFMiniChallenge7.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ferna\\OneDrive\\Documents\\GitRepository\\AguilarFMiniChallenge7\\AguilarFMiniChallenge7.csproj",
+        "projectUniqueName": "/Users/angelmanz/Documents/Level1/GitRepository/AguilarFMiniChallenge7/AguilarFMiniChallenge7.csproj",
         "projectName": "AguilarFMiniChallenge7",
-        "projectPath": "C:\\Users\\ferna\\OneDrive\\Documents\\GitRepository\\AguilarFMiniChallenge7\\AguilarFMiniChallenge7.csproj",
-        "packagesPath": "C:\\Users\\ferna\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ferna\\OneDrive\\Documents\\GitRepository\\AguilarFMiniChallenge7\\obj\\",
+        "projectPath": "/Users/angelmanz/Documents/Level1/GitRepository/AguilarFMiniChallenge7/AguilarFMiniChallenge7.csproj",
+        "packagesPath": "/Users/angelmanz/.nuget/packages/",
+        "outputPath": "/Users/angelmanz/Documents/Level1/GitRepository/AguilarFMiniChallenge7/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ferna\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/Users/angelmanz/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.400/RuntimeIdentifierGraph.json"
         }
       }
     }
